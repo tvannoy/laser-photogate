@@ -9,4 +9,9 @@ The responder is responsible for reporting when the car passed the finish line; 
 
 As shown in the diagram below, both the controller and reponder have an associated laser on the other side of the track. 
 ![High-level block diagram of the photogate system](../assets/system-overview.svg)
+
 When the controller's laser is blocked by the car, the timing starts. Once the car interrupts the responder's laser beam, the the timing stops.
+
+<svg viewBox="-0.5 -0.5 692 526">
+    <use href="../assets/system-overview.drawio.svg#svg" />
+</svg>
