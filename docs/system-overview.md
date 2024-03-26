@@ -18,8 +18,6 @@ When the controller's laser is blocked by the car, the timing starts. Once the c
 
 The following state diagrams show the overall flow of the algorithm.
 
-<div class="flex-container">
-<div class="flex-child">
 
 ```mermaid
 ---
@@ -38,9 +36,6 @@ stateDiagram-v2
     calculateRunTime --> idle
 ```
 
-</div>
-<div class="flex-child">
-
 ```mermaid
 ---
 title: Responder
@@ -54,17 +49,3 @@ stateDiagram-v2
     notifyController --> waitForNotification
 
 ```
-
-</div>
-</div>
-
-<style>
-    .flex-container {
-        display: flex;
-        justify-content: center;
-    }
-
-    .flex-child {
-        flex: 1;
-    }  
-</style>
