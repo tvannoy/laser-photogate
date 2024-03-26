@@ -14,3 +14,57 @@ As shown in the diagram below, both the controller and reponder have an associat
 When the controller's laser is blocked by the car, the timing starts. Once the car interrupts the responder's laser beam, the the timing stops.
 
 
+## Algorithm
+
+The following state diagrams show the overall flow of the algorithm.
+
+<div class="flex-container">
+<div class="flex-child">
+
+```mermaid
+---
+title: Controller
+---
+stateDiagram-v2
+    [*] --> idle
+    idle --> idle
+    idle --> waitForCar: button pressed
+    waitForCar --> waitForCar
+    waitForCar --> startTimer: laser triggered
+    startTimer --> notifyResponder
+    notifyResponder --> waitForResponder
+    waitForResponder --> waitForResponder
+    waitForResponder --> calculateRunTime: notifcation receieved
+    calculateRunTime --> idle
+```
+
+</div>
+<div class="flex-child">
+
+```mermaid
+---
+title: Responder
+---
+stateDiagram-v2
+    [*] --> waitForNotification
+    waitForNotification --> waitForNotification
+    waitForNotification --> waitForCar: notification receieved
+    waitForCar --> waitForCar
+    waitForCar --> notifyController: laser triggered
+    notifyController --> waitForNotification
+
+```
+
+</div>
+</div>
+
+<style>
+    .flex-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .flex-child {
+        flex: 1;
+    }  
+</style>
