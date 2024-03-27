@@ -5,11 +5,10 @@
 	(uuid "1f39f509-fadf-4ef8-8f0f-fb272e08b99c")
 	(paper "USLetter")
 	(title_block
-		(title "laser photogate reporter")
+		(title "laser photogate ESP32 board")
 		(date "2024-03-24")
 		(rev "1")
 		(company "Trevor Vannoy")
-		(comment 2 "Downstream receiver for a laser photogate system.\\nThis board wireslessly sends a message back to the controller\\nwhen the object reached the finish line.")
 	)
 	(lib_symbols
 		(symbol "Analog_Switch:MAX40200AUK"
@@ -5512,7 +5511,7 @@
 			(uuid "cc9a466f-f014-46c4-b7b7-d0b5250465c9")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR010")
 					(unit 1)
@@ -5578,7 +5577,7 @@
 			(uuid "e4a6f847-5f6b-44ff-895d-3b17644619e0")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR018")
 					(unit 1)
@@ -5644,7 +5643,7 @@
 			(uuid "125420f9-409f-4456-8967-acdef94aee75")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR029")
 					(unit 1)
@@ -5710,7 +5709,7 @@
 			(uuid "ab115c23-dea9-4373-b748-df23665f71ab")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR022")
 					(unit 1)
@@ -5776,7 +5775,7 @@
 			(uuid "2fd52a6d-2fd8-48ef-bc6c-7468dbeaee68")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR015")
 					(unit 1)
@@ -5842,7 +5841,7 @@
 			(uuid "46f48d25-b503-4e94-ae22-e6b5a0063eb6")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR028")
 					(unit 1)
@@ -5908,7 +5907,7 @@
 			(uuid "0a3f8e69-ec39-4038-b9cc-fc17676b8a4d")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR030")
 					(unit 1)
@@ -5987,7 +5986,7 @@
 			(uuid "97979fed-3c13-47ff-aabb-97b694f19f89")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D1")
 					(unit 1)
@@ -6052,7 +6051,7 @@
 			(uuid "88cc6950-e20e-48ca-80a3-3f441dcde899")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR038")
 					(unit 1)
@@ -6117,7 +6116,7 @@
 			(uuid "a64a626e-d302-4867-ad5e-9f0ea63c78da")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR040")
 					(unit 1)
@@ -6195,7 +6194,7 @@
 			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D6")
 					(unit 1)
@@ -6261,7 +6260,7 @@
 			(uuid "439026dc-c2cd-4e3c-8c64-e2d5fac4b55f")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR07")
 					(unit 1)
@@ -6333,13 +6332,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160e")
+			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160f")
 		)
 		(pin "2"
-			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
+			(uuid "edb77717-29ea-496f-9217-c55110695e1d")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D8")
 					(unit 1)
@@ -6417,7 +6416,7 @@
 			(uuid "1f5bc9bf-1122-423c-92af-0538c3f0a3fb")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C6")
 					(unit 1)
@@ -6483,7 +6482,7 @@
 			(uuid "539984e2-6139-4d29-8d37-1f2751946b71")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR036")
 					(unit 1)
@@ -6561,7 +6560,7 @@
 			(uuid "5416a846-3db0-45b1-9e31-b85f95377008")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "Q1")
 					(unit 1)
@@ -6626,7 +6625,7 @@
 			(uuid "58779602-917f-474c-84c3-8ac23f71ff0c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR027")
 					(unit 1)
@@ -6693,7 +6692,7 @@
 			(uuid "80dd0877-42e5-41ef-bc70-6c0ca12e1470")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R10")
 					(unit 1)
@@ -6760,7 +6759,7 @@
 			(uuid "27a3f20d-9a4d-41cc-acb0-2df34724050e")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C4")
 					(unit 1)
@@ -6840,7 +6839,7 @@
 			(uuid "e2a229e8-0c0a-41bd-9ca3-f16f256e717a")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "U4")
 					(unit 1)
@@ -6906,7 +6905,7 @@
 			(uuid "4b96faf2-0b69-49c3-8cdb-4cd95e87aed0")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR013")
 					(unit 1)
@@ -6972,7 +6971,7 @@
 			(uuid "c9069274-cc85-47e0-b11e-53cee118e70d")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR01")
 					(unit 1)
@@ -7042,7 +7041,7 @@
 			(uuid "0ce4c17e-d436-424b-95fe-ce66429040a5")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R3")
 					(unit 1)
@@ -7109,7 +7108,7 @@
 			(uuid "2f58da50-9b18-43ab-ad10-4c92e3d2a50c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R11")
 					(unit 1)
@@ -7175,7 +7174,7 @@
 			(uuid "0a6d5aaa-f441-4ca4-9ba7-8106d4825904")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR021")
 					(unit 1)
@@ -7241,7 +7240,7 @@
 			(uuid "69270f2d-16fc-4208-b5a1-61b7ca7a1d8a")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#FLG01")
 					(unit 1)
@@ -7317,7 +7316,7 @@
 			(uuid "d38d437d-23cb-4d32-ba1f-815be87be1c6")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R7")
 					(unit 1)
@@ -7382,7 +7381,7 @@
 			(uuid "33810787-32a0-49ac-89a8-3e98f4563814")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR024")
 					(unit 1)
@@ -7448,7 +7447,7 @@
 			(uuid "0046594e-5238-4aab-8670-4818039e1cbd")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR033")
 					(unit 1)
@@ -7525,7 +7524,7 @@
 			(uuid "0a4f2959-12ba-4381-b985-0b554f90490f")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D5")
 					(unit 1)
@@ -7595,7 +7594,7 @@
 			(uuid "8e5045ff-4008-45d7-82a8-16df44227b8f")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C10")
 					(unit 1)
@@ -7660,7 +7659,7 @@
 			(uuid "705fcd73-2e9e-4937-9c55-9d9c227d70e4")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR039")
 					(unit 1)
@@ -7738,7 +7737,7 @@
 			(uuid "c41a5b13-9b1a-48be-9a37-335ee58cbe4c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D4")
 					(unit 1)
@@ -7806,7 +7805,7 @@
 			(uuid "2144fbd4-ebf2-4c31-87e2-272ff46d7ba6")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C8")
 					(unit 1)
@@ -7876,7 +7875,7 @@
 			(uuid "d11805a5-479b-4c2a-ba36-8b17d41db72f")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R5")
 					(unit 1)
@@ -7942,7 +7941,7 @@
 			(uuid "d31454dd-25a5-457a-9f9d-560fc24cc531")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR032")
 					(unit 1)
@@ -8012,7 +8011,7 @@
 			(uuid "0e03742c-52f2-4c8d-aada-50b48d75d2cf")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R4")
 					(unit 1)
@@ -8102,7 +8101,7 @@
 			(uuid "395a27f5-e8fc-4d81-a4af-2fe0dff22b62")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "U3")
 					(unit 1)
@@ -8167,7 +8166,7 @@
 			(uuid "256c3d41-2e3c-4585-8e1b-dfc7cdf59284")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR025")
 					(unit 1)
@@ -8233,7 +8232,7 @@
 			(uuid "3e1d2460-e891-4527-97d5-c5b72cbbbec7")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR014")
 					(unit 1)
@@ -8312,7 +8311,7 @@
 			(uuid "33fb1ca1-7f23-4a07-87f6-0e13d4a8b5be")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D3")
 					(unit 1)
@@ -8442,7 +8441,7 @@
 			(uuid "9b1a975e-8b1d-4c8c-8d65-e9e759cbee84")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "U1")
 					(unit 1)
@@ -8508,7 +8507,7 @@
 			(uuid "89df0ce4-d572-4187-befd-fe2da4806b84")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR031")
 					(unit 1)
@@ -8574,7 +8573,7 @@
 			(uuid "f4ee0158-56c3-4e7e-8a76-c129a096a3cc")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR05")
 					(unit 1)
@@ -8644,7 +8643,7 @@
 			(uuid "914628ba-6fcd-4e5d-808c-297e2358a7c6")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C11")
 					(unit 1)
@@ -8714,7 +8713,7 @@
 			(uuid "b942f204-af3d-4e26-b1ea-937f6663a622")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R1")
 					(unit 1)
@@ -8784,7 +8783,7 @@
 			(uuid "a811ff6c-d183-469f-8277-aa60c2ad2087")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C1")
 					(unit 1)
@@ -8873,7 +8872,7 @@
 			(uuid "12fedacd-0d71-4b7f-8ffb-e37b369c677d")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "J2")
 					(unit 1)
@@ -8939,7 +8938,7 @@
 			(uuid "6ff0c2e3-f02c-49b9-a3ea-fb33092fe509")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR026")
 					(unit 1)
@@ -9005,7 +9004,7 @@
 			(uuid "adaaa678-1df7-4ef0-ba20-682c45b784bb")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR037")
 					(unit 1)
@@ -9075,7 +9074,7 @@
 			(uuid "e8b52b10-f187-4926-b6e7-5673443ae65e")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C3")
 					(unit 1)
@@ -9141,7 +9140,7 @@
 			(uuid "8fe7eaba-aea8-4b09-959e-34cf5734dc28")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR020")
 					(unit 1)
@@ -9220,7 +9219,7 @@
 			(uuid "b12a2b24-7d17-41c4-8a63-053e9cefcfc6")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "SW2")
 					(unit 1)
@@ -9292,13 +9291,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160e")
+			(uuid "b782923f-e2e7-460d-8b18-1385c7f71610")
 		)
 		(pin "2"
-			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
+			(uuid "edb77717-29ea-496f-9217-c55110695e1e")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D7")
 					(unit 1)
@@ -9366,7 +9365,7 @@
 			(uuid "209f1dc7-98f9-47ea-a6eb-326d592f0324")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R6")
 					(unit 1)
@@ -9445,7 +9444,7 @@
 			(uuid "1fd9e7aa-fb76-4910-a74a-885639a878a0")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "D2")
 					(unit 1)
@@ -9511,7 +9510,7 @@
 			(uuid "4bd847df-10af-4f9f-827f-d2371a331ace")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR012")
 					(unit 1)
@@ -9588,7 +9587,7 @@
 			(uuid "5140fecd-466d-4e5c-b821-7333c82e8563")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "J3")
 					(unit 1)
@@ -9658,7 +9657,7 @@
 			(uuid "8a9e2ac3-5174-4e6f-a568-449800de3410")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R9")
 					(unit 1)
@@ -9728,7 +9727,7 @@
 			(uuid "c16c72a2-18d1-41b3-a9ed-082808d641fd")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R2")
 					(unit 1)
@@ -9797,7 +9796,7 @@
 			(uuid "d95691be-f85b-4cfa-9e11-a3215bedbc9f")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C2")
 					(unit 1)
@@ -9863,7 +9862,7 @@
 			(uuid "91dad31d-5b77-4276-bd49-6cde8011d8eb")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR03")
 					(unit 1)
@@ -9928,7 +9927,7 @@
 			(uuid "3363b87d-a94e-4759-b331-0fd2dbe8e8e2")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR019")
 					(unit 1)
@@ -9994,7 +9993,7 @@
 			(uuid "6ef3ce1d-be33-46ef-aeaf-ff64eba28b26")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR011")
 					(unit 1)
@@ -10060,7 +10059,7 @@
 			(uuid "c16aae69-d582-4d42-ad4d-c158408507bd")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR023")
 					(unit 1)
@@ -10126,7 +10125,7 @@
 			(uuid "21c32479-f60b-41d1-bfe1-e730a5078883")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR08")
 					(unit 1)
@@ -10196,7 +10195,7 @@
 			(uuid "7c983f53-13f1-4941-80a6-8fc198b7907c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R12")
 					(unit 1)
@@ -10262,7 +10261,7 @@
 			(uuid "dadfbe1b-0f23-4f3e-aea5-586040f0ca0b")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR04")
 					(unit 1)
@@ -10328,7 +10327,7 @@
 			(uuid "f39265f8-b2c3-4285-8f9b-8af151e5fdb5")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR02")
 					(unit 1)
@@ -10406,7 +10405,7 @@
 			(uuid "b4d883d6-4ecc-494b-a3d7-fdd83fe7a218")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C5")
 					(unit 1)
@@ -10472,7 +10471,7 @@
 			(uuid "513aac40-c494-440b-a4ed-7210c1fe2f1c")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR016")
 					(unit 1)
@@ -10558,7 +10557,7 @@
 			(uuid "295ee9dd-67fc-4d36-a8a2-3fc9ff0c3790")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "U2")
 					(unit 1)
@@ -10635,7 +10634,7 @@
 			(uuid "01f3f922-f434-42e4-b5c2-de93ff807481")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "SW1")
 					(unit 1)
@@ -10701,7 +10700,7 @@
 			(uuid "56f66389-ff80-4428-a8f2-7827254059c2")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR017")
 					(unit 1)
@@ -10767,7 +10766,7 @@
 			(uuid "a394a919-3cc1-4d8e-b27f-19518974f682")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR034")
 					(unit 1)
@@ -10839,7 +10838,7 @@
 			(uuid "61c98713-7439-4a08-a5e9-bb5b00d9d94b")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "J1")
 					(unit 1)
@@ -10915,7 +10914,7 @@
 			(uuid "708204ed-70da-4358-bf03-eae0322420bd")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R8")
 					(unit 1)
@@ -10981,7 +10980,7 @@
 			(uuid "17c9055b-6e4c-4613-a6bc-2e2a2a4f884e")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR09")
 					(unit 1)
@@ -11047,7 +11046,7 @@
 			(uuid "efe3ae16-9ca2-41f8-b8ac-c93702cd415a")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR06")
 					(unit 1)
@@ -11117,7 +11116,7 @@
 			(uuid "12853680-b577-4a76-a17a-ca3c66283839")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C7")
 					(unit 1)
@@ -11187,7 +11186,7 @@
 			(uuid "b1fabc25-4983-4525-9bdd-5256fd577c45")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "C9")
 					(unit 1)
@@ -11253,7 +11252,7 @@
 			(uuid "b5914fb0-a8d9-43e3-bfdd-c0c8b32b3759")
 		)
 		(instances
-			(project "reporter"
+			(project "esp32-boards"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "#PWR035")
 					(unit 1)
