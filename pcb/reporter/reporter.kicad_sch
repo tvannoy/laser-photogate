@@ -1808,7 +1808,7 @@
 				)
 			)
 		)
-		(symbol "Diode:ESD9B5.0ST5G"
+		(symbol "Diode:SD05_SOD323"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -1823,7 +1823,7 @@
 					)
 				)
 			)
-			(property "Value" "ESD9B5.0ST5G"
+			(property "Value" "SD05_SOD323"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1831,7 +1831,16 @@
 					)
 				)
 			)
-			(property "Footprint" "Diode_SMD:D_SOD-923"
+			(property "Footprint" "Diode_SMD:D_SOD-323"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1840,7 +1849,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+			(property "Description" "5V, 450W Discrete Bidirectional TVS Diode, SOD-323"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1849,7 +1858,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "ESD protection diode, 5.0Vrwm, SOD-923"
+			(property "ki_keywords" "transient voltage suppressor thyrector transil"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1858,7 +1867,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "diode TVS ESD"
+			(property "ki_fp_filters" "D?SOD?323*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1867,16 +1876,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "D*SOD?923*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "ESD9B5.0ST5G_0_1"
+			(symbol "SD05_SOD323_0_1"
 				(polyline
 					(pts
 						(xy 1.27 0) (xy -1.27 0)
@@ -1926,7 +1926,7 @@
 					)
 				)
 			)
-			(symbol "ESD9B5.0ST5G_1_1"
+			(symbol "SD05_SOD323_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -6126,6 +6126,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SD05_SOD323")
+		(at 219.71 54.61 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "229ccc7e-c7b9-42ae-a0ae-6b7e277ec726")
+		(property "Reference" "D6"
+			(at 220.218 50.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SD05_SOD323"
+			(at 216.916 48.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 214.63 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SD05C.pdf"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "5V, 450W Discrete Bidirectional TVS Diode, SOD-323"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SD05C-7"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160e")
+		)
+		(pin "2"
+			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
+		)
+		(instances
+			(project "reporter"
+				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 63.5 162.56 0)
 		(unit 1)
@@ -6192,33 +6270,42 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:ESD9B5.0ST5G")
-		(at 234.95 54.61 90)
+		(lib_id "Diode:SD05_SOD323")
+		(at 234.95 54.61 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2a7d4fe6-f3d3-40db-804a-cffde1ea9f62")
+		(uuid "2b6d7fd8-f3d6-4a4a-9337-2479989e6783")
 		(property "Reference" "D8"
-			(at 235.458 50.8 90)
+			(at 235.458 50.546 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "ESD9B5.0ST5G"
-			(at 231.902 49.784 0)
+		(property "Value" "SD05_SOD323"
+			(at 232.41 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 229.87 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SD05C.pdf"
 			(at 234.95 54.61 0)
 			(effects
 				(font
@@ -6227,7 +6314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Description" "5V, 450W Discrete Bidirectional TVS Diode, SOD-323"
 			(at 234.95 54.61 0)
 			(effects
 				(font
@@ -6236,7 +6323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "ESD protection diode, 5.0Vrwm, SOD-923"
+		(property "Part Number" "SD05C-7"
 			(at 234.95 54.61 0)
 			(effects
 				(font
@@ -6244,21 +6331,12 @@
 				)
 				(hide yes)
 			)
-		)
-		(property "Part Number" "ESD9B5.0ST5G"
-			(at 234.95 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "66b51fd4-4282-48a7-8257-0780a4b5bafb")
 		)
 		(pin "1"
-			(uuid "b98cf172-e4ce-4244-b936-fd5d6fdaecaf")
+			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160e")
+		)
+		(pin "2"
+			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
 		)
 		(instances
 			(project "reporter"
@@ -6492,84 +6570,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:ESD9B5.0ST5G")
-		(at 227.33 54.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2edf94ea-f236-43f7-9123-23dc7bf26761")
-		(property "Reference" "D7"
-			(at 227.838 50.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ESD9B5.0ST5G"
-			(at 224.536 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
-			(at 227.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
-			(at 227.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ESD protection diode, 5.0Vrwm, SOD-923"
-			(at 227.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "ESD9B5.0ST5G"
-			(at 227.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "66b51fd4-4282-48a7-8257-0780a4b5bafb")
-		)
-		(pin "1"
-			(uuid "b98cf172-e4ce-4244-b936-fd5d6fdaecaf")
-		)
-		(instances
-			(project "reporter"
-				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 203.2 157.48 0)
 		(unit 1)
@@ -6696,84 +6696,6 @@
 			(project "reporter"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:ESD9B5.0ST5G")
-		(at 219.71 54.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3a43a39d-6c97-4ce7-b570-d22db3d2ca64")
-		(property "Reference" "D6"
-			(at 220.472 50.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ESD9B5.0ST5G"
-			(at 216.662 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
-			(at 219.71 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
-			(at 219.71 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ESD protection diode, 5.0Vrwm, SOD-923"
-			(at 219.71 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "ESD9B5.0ST5G"
-			(at 219.71 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "66b51fd4-4282-48a7-8257-0780a4b5bafb")
-		)
-		(pin "1"
-			(uuid "b98cf172-e4ce-4244-b936-fd5d6fdaecaf")
-		)
-		(instances
-			(project "reporter"
-				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -9301,6 +9223,84 @@
 			(project "reporter"
 				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SD05_SOD323")
+		(at 227.33 54.61 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aca15590-47b8-4ad3-a0e6-e8871b4acd10")
+		(property "Reference" "D7"
+			(at 227.838 50.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SD05_SOD323"
+			(at 224.79 48.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 222.25 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SD05C.pdf"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "5V, 450W Discrete Bidirectional TVS Diode, SOD-323"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SD05C-7"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b782923f-e2e7-460d-8b18-1385c7f7160e")
+		)
+		(pin "2"
+			(uuid "edb77717-29ea-496f-9217-c55110695e1c")
+		)
+		(instances
+			(project "reporter"
+				(path "/1f39f509-fadf-4ef8-8f0f-fb272e08b99c"
+					(reference "D7")
 					(unit 1)
 				)
 			)
