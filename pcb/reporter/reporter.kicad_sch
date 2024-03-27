@@ -8818,7 +8818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -8827,7 +8827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf"
+		(property "Datasheet" "https://www.we-online.com/katalog/datasheet/629105150521.pdf"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -8845,7 +8845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10118193-0001LF"
+		(property "Part Number" "629105150521"
 			(at 207.01 45.72 0)
 			(effects
 				(font
