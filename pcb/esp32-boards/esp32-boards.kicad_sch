@@ -10013,7 +10013,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT_EN"
+		(property "Value" "BATTERY_EN"
 			(at 109.22 161.544 0)
 			(effects
 				(font
