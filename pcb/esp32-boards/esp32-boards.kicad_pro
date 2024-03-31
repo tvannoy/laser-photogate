@@ -655,6 +655,12 @@
           "label": "Notes",
           "name": "Notes",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC Part Number",
+          "name": "JLC Part Number",
+          "show": false
         }
       ],
       "filter_string": "",

@@ -6452,6 +6452,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C434438"
+			(at 30.48 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b36c679b-3e74-4453-872d-59efd9133f34")
 		)
@@ -6521,6 +6530,15 @@
 			)
 		)
 		(property "Part Number" "TS02-66-43-BK-260-LCR-D"
+			(at 50.8 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" ""
 			(at 50.8 191.77 0)
 			(effects
 				(font
@@ -6728,7 +6746,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SD05C-7"
+		(property "Part Number" "Leiditech SD05"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C490614"
 			(at 219.71 54.61 0)
 			(effects
 				(font
@@ -6872,7 +6899,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SD05C-7"
+		(property "Part Number" "Leiditech SD05"
+			(at 234.95 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C490614"
 			(at 234.95 54.61 0)
 			(effects
 				(font
@@ -6951,6 +6987,24 @@
 			)
 		)
 		(property "Notes" "50V"
+			(at 162.56 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805JRNPO9BN220"
+			(at 162.56 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C1804"
 			(at 162.56 57.15 0)
 			(effects
 				(font
@@ -7103,6 +7157,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C2936540"
+			(at 137.16 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61626549-5059-4877-bcb1-87c8ffe5e418")
 		)
@@ -7235,6 +7298,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-07390RL"
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17655"
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "933622cb-37e5-4ce5-984e-91488d6418c5")
 		)
@@ -7296,6 +7377,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 80.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL"
+			(at 80.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17414"
 			(at 80.01 124.46 0)
 			(effects
 				(font
@@ -7436,6 +7535,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805KFX7R6BB106"
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C28323"
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "017c4429-e12a-43b1-8496-acdaabc48ac3")
 		)
@@ -7505,6 +7622,15 @@
 			)
 		)
 		(property "Part Number" "LD39150DT33-R"
+			(at 223.52 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C155559"
 			(at 223.52 91.44 0)
 			(effects
 				(font
@@ -7718,6 +7844,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL"
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17414"
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "878efb6d-d43e-438a-8b75-fce270317d31")
 		)
@@ -7777,6 +7921,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 187.96 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-072KL"
+			(at 187.96 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17604"
 			(at 187.96 152.4 0)
 			(effects
 				(font
@@ -7993,6 +8155,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805JR-070RL"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17477"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51034601-49a5-4ba8-b8de-b3bde24a273e")
 		)
@@ -8134,6 +8314,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C131334"
+			(at 30.48 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c52dc30d-5f78-45e0-bbb1-9768d872ac8e")
 		)
@@ -8239,7 +8428,7 @@
 				)
 			)
 		)
-		(property "Value" "NRVB120VLSF"
+		(property "Value" "SM5817PL-TP"
 			(at 240.3475 36.83 0)
 			(effects
 				(font
@@ -8256,7 +8445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr120vlsft1-d.pdf"
+		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/SM5817PL-SM5819PL(SOD-123FL).PDF"
 			(at 240.03 40.64 0)
 			(effects
 				(font
@@ -8274,7 +8463,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "NRVB120VLSF"
+		(property "Part Number" "SM5817PL-TP"
+			(at 240.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C669022"
 			(at 240.03 40.64 0)
 			(effects
 				(font
@@ -8317,7 +8515,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "2.2uF"
 			(at 207.01 99.0535 0)
 			(effects
 				(font
@@ -8345,6 +8543,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 204.47 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805KKX7R6BB225"
+			(at 204.47 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C377773"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -8496,6 +8712,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C434438"
+			(at 170.18 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "994df20b-b08a-4d21-b45d-3d1264144003")
 		)
@@ -8556,6 +8781,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 198.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805KKX7R6BB475"
+			(at 198.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C1779"
 			(at 198.12 140.97 0)
 			(effects
 				(font
@@ -8626,6 +8869,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 80.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-07180RL"
+			(at 80.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C25270"
 			(at 80.01 149.86 0)
 			(effects
 				(font
@@ -8770,6 +9031,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-07180RL"
+			(at 63.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C25270"
+			(at 63.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2373870d-ccf2-4f36-8007-a075c55eeb1b")
 		)
@@ -8843,6 +9122,15 @@
 			)
 		)
 		(property "Part Number" "MCP73831T-2ACI/OT"
+			(at 203.2 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C424093"
 			(at 203.2 149.86 0)
 			(effects
 				(font
@@ -9070,6 +9358,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C434438"
+			(at 80.01 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "173aebdf-e492-4206-82be-662f9a0ed891")
 		)
@@ -9103,7 +9400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1uF"
 			(at 107.95 146.05 0)
 			(effects
 				(font
@@ -9131,6 +9428,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 115.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805KFX7R6BB106"
+			(at 115.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C28323"
 			(at 115.57 144.78 0)
 			(effects
 				(font
@@ -9210,6 +9525,15 @@
 			)
 		)
 		(property "Part Number" "ESP32-C3-WROOM-02-N4"
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C2934560"
 			(at 101.6 59.69 0)
 			(effects
 				(font
@@ -9471,6 +9795,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805KKX7R6BB225"
+			(at 237.49 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C377773"
+			(at 237.49 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afc76b8f-7aad-4f49-947f-fcc14e423874")
 		)
@@ -9533,6 +9875,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 33.02 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL"
+			(at 33.02 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17414"
 			(at 33.02 189.23 0)
 			(effects
 				(font
@@ -9611,6 +9971,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805KFX7R6BB106"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C28323"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fdde6196-1b86-476a-8bdf-038f32715045")
 		)
@@ -9680,6 +10058,15 @@
 			)
 		)
 		(property "Part Number" "629105150521"
+			(at 207.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" ""
 			(at 207.01 45.72 0)
 			(effects
 				(font
@@ -9968,6 +10355,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805KRX7R6BB104"
+			(at 92.71 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C49678"
+			(at 92.71 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "471c149d-60ad-430b-95fd-f06ecf716b9d")
 		)
@@ -10103,6 +10508,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-074K7L"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17673"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "116d9dcd-b0f3-45fe-b1e2-fc936ee19d27")
 		)
@@ -10171,6 +10594,15 @@
 			)
 		)
 		(property "Part Number" "EG1224"
+			(at 109.22 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C273395"
 			(at 109.22 154.94 0)
 			(effects
 				(font
@@ -10251,7 +10683,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SD05C-7"
+		(property "Part Number" "Leiditech SD05"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C490614"
 			(at 227.33 54.61 0)
 			(effects
 				(font
@@ -10320,6 +10761,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 97.79 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805JR-070RL"
+			(at 97.79 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17477"
 			(at 97.79 185.42 0)
 			(effects
 				(font
@@ -10400,6 +10859,15 @@
 		)
 		(property "Part Number" "B1591UY--20C000112U1930"
 			(at 63.5 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C434438"
+			(at 63.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10550,6 +11018,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C5251182"
+			(at 248.92 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "def48ef5-2713-4b6f-a053-4d21285a4ef8")
 		)
@@ -10612,6 +11089,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 139.7 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL"
+			(at 139.7 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17414"
 			(at 139.7 193.04 0)
 			(effects
 				(font
@@ -10690,6 +11185,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-07180RL"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C25270"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a9f0436-e8d1-40b6-b43d-8f120f7ec356")
 		)
@@ -10751,6 +11264,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805KKX7R6BB105"
+			(at 86.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C15850"
 			(at 86.36 30.48 0)
 			(effects
 				(font
@@ -11158,6 +11689,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL"
+			(at 25.4 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17414"
+			(at 25.4 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "251d3597-c005-4300-bb56-f0139d7b6d43")
 		)
@@ -11434,6 +11983,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805JRNPO9BN220"
+			(at 157.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C1804"
+			(at 157.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acd31cf4-81f3-4f94-977a-0a84b04d635c")
 		)
@@ -11577,6 +12144,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C2649430"
+			(at 130.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dba885f5-3ef5-4519-94a7-be44e36c9fa8")
 		)
@@ -11655,6 +12231,15 @@
 			)
 		)
 		(property "Part Number" "TS02-66-43-BK-260-LCR-D"
+			(at 83.82 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" ""
 			(at 83.82 185.42 0)
 			(effects
 				(font
@@ -11870,6 +12455,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Part Number" "C5251182"
+			(at 72.39 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26128a62-ce10-4967-a729-f7e13095557a")
 		)
@@ -11997,6 +12591,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 144.78 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-074K7L"
+			(at 144.78 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17673"
 			(at 144.78 64.77 0)
 			(effects
 				(font
@@ -12140,6 +12752,24 @@
 		)
 		(property "Notes" "1%"
 			(at 140.97 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805JR-070RL"
+			(at 140.97 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C17477"
+			(at 140.97 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12349,6 +12979,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CC0805KKX7R6BB105"
+			(at 143.51 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C15850"
+			(at 143.51 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f77712d1-f3ac-4aeb-9262-5022a625993c")
 		)
@@ -12411,6 +13059,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805KKX7R6BB475"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part Number" "C1779"
 			(at 226.06 152.4 0)
 			(effects
 				(font
