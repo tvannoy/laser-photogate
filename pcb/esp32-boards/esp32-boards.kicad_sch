@@ -6452,7 +6452,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C434438"
+		(property "JLC" "1206"
+			(at 30.48 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C434438"
 			(at 30.48 156.21 0)
 			(effects
 				(font
@@ -6538,7 +6547,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" ""
+		(property "JLC" ""
 			(at 50.8 191.77 0)
 			(effects
 				(font
@@ -6755,7 +6764,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C490614"
+		(property "JLC" "SD-323"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C490614"
 			(at 219.71 54.61 0)
 			(effects
 				(font
@@ -6908,7 +6926,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C490614"
+		(property "JLC" "SD-323"
+			(at 234.95 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C490614"
 			(at 234.95 54.61 0)
 			(effects
 				(font
@@ -7004,7 +7031,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C1804"
+		(property "JLC" "0805"
+			(at 162.56 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C1804"
 			(at 162.56 57.15 0)
 			(effects
 				(font
@@ -7157,7 +7193,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C2936540"
+		(property "JLC" ""
+			(at 137.16 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C2936540"
 			(at 137.16 182.88 0)
 			(effects
 				(font
@@ -7307,7 +7352,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17655"
+		(property "JLC" "0805"
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17655"
 			(at 176.53 161.29 0)
 			(effects
 				(font
@@ -7394,7 +7448,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17414"
+		(property "JLC" "0805"
+			(at 80.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17414"
 			(at 80.01 124.46 0)
 			(effects
 				(font
@@ -7544,7 +7607,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C28323"
+		(property "JLC" "0805"
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C28323"
 			(at 83.82 190.5 0)
 			(effects
 				(font
@@ -7630,7 +7702,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C155559"
+		(property "JLC" "TO-252"
+			(at 223.52 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C155559"
 			(at 223.52 91.44 0)
 			(effects
 				(font
@@ -7853,7 +7934,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17414"
+		(property "JLC" "0805"
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17414"
 			(at 48.26 38.1 0)
 			(effects
 				(font
@@ -7938,7 +8028,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17604"
+		(property "JLC" "0805"
+			(at 187.96 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17604"
 			(at 187.96 152.4 0)
 			(effects
 				(font
@@ -8164,7 +8263,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17477"
+		(property "JLC" "0805"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17477"
 			(at 140.97 49.53 0)
 			(effects
 				(font
@@ -8314,7 +8422,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C131334"
+		(property "JLC" ""
+			(at 30.48 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C131334"
 			(at 30.48 124.46 0)
 			(effects
 				(font
@@ -8472,7 +8589,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C669022"
+		(property "JLC" "SOD-123FL"
+			(at 240.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C669022"
 			(at 240.03 40.64 0)
 			(effects
 				(font
@@ -8560,7 +8686,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C377773"
+		(property "JLC" "0805"
+			(at 204.47 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C377773"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -8712,7 +8847,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C434438"
+		(property "JLC" "1206"
+			(at 170.18 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C434438"
 			(at 170.18 153.67 0)
 			(effects
 				(font
@@ -8798,7 +8942,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C1779"
+		(property "JLC" "0805"
+			(at 198.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C1779"
 			(at 198.12 140.97 0)
 			(effects
 				(font
@@ -8886,7 +9039,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C25270"
+		(property "JLC" "0805"
+			(at 80.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C25270"
 			(at 80.01 149.86 0)
 			(effects
 				(font
@@ -9040,7 +9202,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C25270"
+		(property "JLC" "0805"
+			(at 63.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C25270"
 			(at 63.5 149.86 0)
 			(effects
 				(font
@@ -9130,7 +9301,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C424093"
+		(property "JLC" "SOT-23-5"
+			(at 203.2 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C424093"
 			(at 203.2 149.86 0)
 			(effects
 				(font
@@ -9358,7 +9538,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C434438"
+		(property "JLC" "1206"
+			(at 80.01 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C434438"
 			(at 80.01 157.48 0)
 			(effects
 				(font
@@ -9445,7 +9634,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C28323"
+		(property "JLC" "0805"
+			(at 115.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C28323"
 			(at 115.57 144.78 0)
 			(effects
 				(font
@@ -9533,7 +9731,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C2934560"
+		(property "JLC" "VFQFN-32-EP"
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C2934560"
 			(at 101.6 59.69 0)
 			(effects
 				(font
@@ -9804,7 +10011,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C377773"
+		(property "JLC" "0805"
+			(at 237.49 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C377773"
 			(at 237.49 97.79 0)
 			(effects
 				(font
@@ -9892,7 +10108,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17414"
+		(property "JLC" "0805"
+			(at 33.02 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17414"
 			(at 33.02 189.23 0)
 			(effects
 				(font
@@ -9980,7 +10205,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C28323"
+		(property "JLC" "0805"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C28323"
 			(at 48.26 45.72 0)
 			(effects
 				(font
@@ -10066,7 +10300,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" ""
+		(property "JLC" ""
 			(at 207.01 45.72 0)
 			(effects
 				(font
@@ -10364,7 +10598,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C49678"
+		(property "JLC" "0805"
+			(at 92.71 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C49678"
 			(at 92.71 30.48 0)
 			(effects
 				(font
@@ -10517,7 +10760,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17673"
+		(property "JLC" "0805"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17673"
 			(at 147.32 64.77 0)
 			(effects
 				(font
@@ -10602,7 +10854,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C273395"
+		(property "JLC" ""
+			(at 109.22 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C273395"
 			(at 109.22 154.94 0)
 			(effects
 				(font
@@ -10692,7 +10953,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C490614"
+		(property "JLC" "SD-323"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C490614"
 			(at 227.33 54.61 0)
 			(effects
 				(font
@@ -10778,7 +11048,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17477"
+		(property "JLC" "0805"
+			(at 97.79 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17477"
 			(at 97.79 185.42 0)
 			(effects
 				(font
@@ -10866,7 +11145,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C434438"
+		(property "JLC" "1206"
+			(at 63.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C434438"
 			(at 63.5 157.48 0)
 			(effects
 				(font
@@ -11018,7 +11306,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C5251182"
+		(property "JLC" ""
+			(at 248.92 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C5251182"
 			(at 248.92 158.75 0)
 			(effects
 				(font
@@ -11106,7 +11403,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17414"
+		(property "JLC" "0805"
+			(at 139.7 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17414"
 			(at 139.7 193.04 0)
 			(effects
 				(font
@@ -11194,7 +11500,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C25270"
+		(property "JLC" "0805"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C25270"
 			(at 30.48 148.59 0)
 			(effects
 				(font
@@ -11281,7 +11596,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C15850"
+		(property "JLC" "0805"
+			(at 86.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C15850"
 			(at 86.36 30.48 0)
 			(effects
 				(font
@@ -11698,7 +12022,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17414"
+		(property "JLC" "0805"
+			(at 25.4 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17414"
 			(at 25.4 189.23 0)
 			(effects
 				(font
@@ -11992,7 +12325,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C1804"
+		(property "JLC" "0805"
+			(at 157.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C1804"
 			(at 157.48 57.15 0)
 			(effects
 				(font
@@ -12144,7 +12486,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C2649430"
+		(property "JLC" "SOT-23-5"
+			(at 130.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C2649430"
 			(at 130.81 149.86 0)
 			(effects
 				(font
@@ -12239,7 +12590,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" ""
+		(property "JLC" ""
 			(at 83.82 185.42 0)
 			(effects
 				(font
@@ -12455,7 +12806,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C5251182"
+		(property "JLC" ""
+			(at 72.39 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C5251182"
 			(at 72.39 121.92 0)
 			(effects
 				(font
@@ -12608,7 +12968,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17673"
+		(property "JLC" "0805"
+			(at 144.78 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17673"
 			(at 144.78 64.77 0)
 			(effects
 				(font
@@ -12768,7 +13137,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C17477"
+		(property "JLC" "0805"
+			(at 140.97 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C17477"
 			(at 140.97 52.07 0)
 			(effects
 				(font
@@ -12988,7 +13366,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C15850"
+		(property "JLC" "0805"
+			(at 143.51 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C15850"
 			(at 143.51 152.4 0)
 			(effects
 				(font
@@ -13076,7 +13463,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part Number" "C1779"
+		(property "JLC" "0805"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCSC" "C1779"
 			(at 226.06 152.4 0)
 			(effects
 				(font
