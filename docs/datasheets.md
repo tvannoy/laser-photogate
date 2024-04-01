@@ -22,7 +22,7 @@ Datasheets can be downloaded in bulk by running `download-datasheets.sh`.
 
 ## Misc ICs
 - [LIPO charger](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf)
-- [LDO regulator](https://www.mouser.com/datasheet/2/389/ld39150-1849393.pdf))
+- [LDO regulator](https://www.mouser.com/datasheet/2/389/ld39150-1849393.pdf)
 - [MAX40200 power distribution OR controller](https://www.analog.com/media/en/technical-documentation/data-sheets/max40200.pdf)
 
 ## LIPOs
