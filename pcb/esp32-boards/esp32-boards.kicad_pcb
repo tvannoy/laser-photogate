@@ -1979,8 +1979,6 @@
 			)
 		)
 		(path "/2d482a1d-f7ab-4768-9cd3-f2fa4d992e15")
-		(sheetname "Root")
-		(sheetfile "esp32-boards.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -2153,13 +2151,24 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Clear.wrl"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 17.3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../lib/7379.STEP"
+			(offset
+				(xyz 1.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
 			)
 		)
 	)
