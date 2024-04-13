@@ -540,7 +540,7 @@
       "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "lipo-charger.step",
       "svg": "",
       "vrml": ""
     },

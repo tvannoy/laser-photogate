@@ -1771,7 +1771,7 @@
 			(pintype "passive")
 			(uuid "1a9077ae-f5e2-4ddc-9e76-e29a70f272e1")
 		)
-		(model "/Users/trevvvy/laser-photogate/pcb/lib/USB_Micro_B_Wuerth_629105150521.stp"
+		(model "${KIPRJMOD}/../lib/USB_Micro_B_Wuerth_629105150521.stp"
 			(offset
 				(xyz 0 1 1)
 			)
